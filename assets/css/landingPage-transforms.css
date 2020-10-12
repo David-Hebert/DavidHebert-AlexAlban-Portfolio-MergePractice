@@ -1,11 +1,12 @@
-.big-nav {
-    transition: 1s, ease-in-out;
+
+.big-nav:active {
+	font-size: 41px; 
 }
 
 .big-nav:hover {
     transform: scale(1.2);
 }
 
-.big-nav:active {
-    font-size: 28pt;
-}
+
+
+
