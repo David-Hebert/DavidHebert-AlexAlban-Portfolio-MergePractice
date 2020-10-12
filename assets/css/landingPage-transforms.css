@@ -1,7 +1,12 @@
-.big-nav:hover {
-	transform: scale(1.7);
-}
 
 .big-nav:active {
 	font-size: 41px; 
 }
+
+.big-nav:hover {
+    transform: scale(1.2);
+}
+
+
+
+
